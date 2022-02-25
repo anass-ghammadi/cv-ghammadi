@@ -16,11 +16,11 @@ const MenuMobile: React.FC<{ toggle: () => void, isOpen: boolean }> = ({ toggle,
                             </li>
 
                             <li className="">
-                            <Link href="/"><a>Portfolio</a></Link>
+                            <Link href="/PortFolio"><a>Portfolio</a></Link>
                             </li>
 
                             <li className="">
-                            <Link href="/"><a>Contact</a></Link>
+                            <Link href="/Contact"><a>Contact</a></Link>
                             </li>
                         </ul>
                     </div>
