@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Ghammadi from '../assets/Anass-ghammadi.jpg';
 import Menu from './menu/Menu'
 import MenuMobile from './menu/Menu_mobile';
+import Waves from'./Waves';
 
 
 
@@ -17,7 +18,7 @@ function SectHome () {
     return (
         <>
             <div className="">
-                
+            <div className="z-0"><Waves /></div>
                 <Menu  toggle={toggle} />
                 <MenuMobile isOpen={isOpen} toggle={toggle} />
                 <div className=" flex flex-col items-center justify-center space-y-12 lg:flex-row lg:items-center lg:justify-center lg:space-x-36 lg:pt-16 lg:space-y-0">
@@ -33,7 +34,7 @@ function SectHome () {
                         </div>
                     </div>
                 </div>
-                
+                <div className="z-0"><Waves /></div>
             </div>      
         </>
     )
