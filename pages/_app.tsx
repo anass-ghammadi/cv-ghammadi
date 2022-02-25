@@ -1,5 +1,5 @@
 import '../styles/globals.css'
-import  '../styles/waves.css'
+import  '../styles/Waves.css'
 import type { AppProps } from 'next/app'
 
 function MyApp({ Component, pageProps }: AppProps) {
