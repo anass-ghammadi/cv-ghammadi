@@ -16,7 +16,7 @@ const MenuMobile: React.FC<{ toggle: () => void, isOpen: boolean }> = ({ toggle,
                             </li>
 
                             <li className="">
-                            <Link href="/PortFolio"><a>Portfolio</a></Link>
+                            <Link href="/Portfolio"><a>Portfolio</a></Link>
                             </li>
 
                             <li className="">
