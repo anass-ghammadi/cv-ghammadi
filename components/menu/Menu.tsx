@@ -21,7 +21,7 @@ const Menu: React.FC<{ toggle: () => void }> = ({ toggle }) => {
                             </li>
 
                             <li className="">
-                            <Link href="/PortFolio" passHref><a>Portfolio</a></Link>
+                            <Link href="/Portfolio" passHref><a>Portfolio</a></Link>
                             </li>
 
                             <li className="">
