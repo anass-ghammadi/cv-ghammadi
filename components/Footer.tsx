@@ -1,7 +1,7 @@
 import Image from "next/image"
 import Linkedin from "../assets/LinkedIn.png"
 import Github from "../assets/GitHub.png"
-import Facebook from "../assets/Facebook.jpg"
+import Facebook from "../assets/Facebook.png"
 
 function Footer () {
     return (
