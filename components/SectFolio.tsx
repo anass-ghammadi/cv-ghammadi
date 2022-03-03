@@ -2,7 +2,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import SiteWeb from '../assets/Website.png'
 import Agency from '../assets/agency.png'
-
 import View from '../assets/Group.png'
 import { useState } from 'react'
 import Menu from '../components/menu/Menu'
