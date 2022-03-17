@@ -7,8 +7,10 @@ const Menu: React.FC<{ toggle: () => void }> = ({ toggle }) => {
         <>
             <header className=" flex items-center justify-center max-w-5xl mx-auto w-full">
                 <nav className= "flex  w-full items-center justify-between  p-8 text-white ">
-                    <div className="w-16">
-                        <Link href="/" passHref><Image className="rounded-full" src={Logo} alt="Logo-ghammadi"/></Link>
+                    <div className="w-16 cursor-pointer">
+                        <Link href="/" passHref>
+                            <Image className="rounded-full" src={Logo} alt="Logo-ghammadi"/>
+                        </Link>
                     </div>
                     <div className="md:block hidden">
                         <ul className="flex items-center justify-center font-semibold space-x-6 text-lg">
