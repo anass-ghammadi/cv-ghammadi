@@ -20,7 +20,7 @@ function SectAbout ()
                 <Menu toggle={toggle} />
                 <MenuMobile isOpen={isOpen} toggle={toggle} />
                 <div className="flex flex-col items-center justify-center space-y-12 lg:flex-row lg:items-start lg:justify-center lg:space-x-36 lg:pt-16 lg:space-y-0">
-                    <div className="w-60 lg:w-96">
+                    <div className="w-60 lg:w-[400px]  ">
                         <Image className="rounded-full outline outline-4 outline-blue-300 outline-offset-4 " src={Ghammadi} alt="anass ghammadi" />
                     </div>
                     <div className=" flex flex-col items-center justify-center space-y-5 lg:items-start">
@@ -29,7 +29,7 @@ function SectAbout ()
                         </div>
                         <div>
                             <p className=" font-normal text-sm text-center w-80 md:text-base text-white lg:text-left lg:w-[560px]">Hello! I’m <span className=" text-blue-600 font-bold">Anass Ghammadi.</span>
-                                a passionate computer engineer with 1 year of experience in webmethods application development. 
+                                <br /> A passionate computer engineer with 1 year of experience in webmethods application development. 
                                 Skilled in using webmethods tools, 
                                 <span className=" text-blue-600 font-bold"> web services, flow services, messaging services, integration services 
                                 </span> I aim to make a difference through my creative solution.
