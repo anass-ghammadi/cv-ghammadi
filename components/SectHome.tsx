@@ -27,10 +27,10 @@ function SectHome () {
                     </div>
                     <div className=" flex flex-col items-center justify-center space-y-5">
                         <div>
-                            <h1 className="text-white font-bold text-2xl md:text-3xl ">Anass GHAMMADI</h1>
+                            <h1 className="text-white font-bold text-2xl md:text-5xl ">Anass GHAMMADI</h1>
                         </div>
                         <div className="flex flex-col items-center space-y-3">
-                            <h1 className=" font-bold text-3xl md:text-5xl text-center  text-blue-300"> WEBMETHODS Developer Analyst at Atos</h1>
+                            <h1 className=" font-bold text-3xl md:text-5xl text-center  text-blue-300"> WEBMETHODS analyst developer at Atos</h1>
                             <h1 className=" font-bold text-xl md:text-3xl  text-white">--------------</h1>
                             <h1 className=" font-bold text-3xl md:text-5xl  text-blue-300">WEB DEVELOPPER</h1>
                         </div>
