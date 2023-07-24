@@ -25,7 +25,7 @@ function SectAbout ()
                     </div>
                     <div className=" flex flex-col items-center justify-center space-y-5 lg:items-start">
                         <div>
-                            <h1 className="text-white font-bold text-xl md:text-3xl ">WEBMETHODS analyst developer</h1>
+                            <h1 className="text-white font-bold text-xl md:text-3xl ">webmethods consultant</h1>
                         </div>
                         <div>
                             <p className=" font-normal text-sm text-center w-80 md:text-base text-white lg:text-left lg:w-[560px]">Hello! I’m <span className=" text-blue-600 font-bold">Anass Ghammadi.</span>
@@ -36,10 +36,10 @@ function SectAbout ()
                              </p>
                         </div>
                         <div className="text-white space-y-2 font-semibold">
-                            <p><span className=" font-bold text-gray-500">Age &nbsp;:</span> 26</p>
+                            <p><span className=" font-bold text-gray-500">Age &nbsp;:</span> 27</p>
                             <p><span className=" font-bold text-gray-500">Email &nbsp;:</span> anassghammadi@gmail.com</p>
                             <p><span className=" font-bold text-gray-500">Phone &nbsp;:</span> +212 6&nbsp;63&nbsp;39&nbsp;76&nbsp;43</p>
-                            <p><span className=" font-bold text-gray-500">Freelance &nbsp;:</span> Available</p>
+                            <p><span className=" font-bold text-gray-500">Freelance &nbsp;:</span>Not Available</p>
                         </div>
                         <div className="bg-white p-3 rounded-xl font-bold z-50">
                             <a href="#"><button type="submit"/>DOWNLOAD CV</a>
@@ -55,9 +55,9 @@ function SectAbout ()
                         </div>
                         <div className='space-y-3'>
                             <div className='space-y-1'>
-                                <h2 className=" font-bold md:text-xl text-blue-300  ">WEBMETHODS analyst developer at Atos</h2>
-                                <h3 className=" font-semibold text-white"><span className=' bg-blue-50 p-[4px] m-2 rounded-full text-[1px] align-middle'></span>Internship | June 2022 - november 2022</h3>
-                                <h3 className=" font-semibold text-white"><span className=' bg-blue-50 p-[4px] m-2 rounded-full text-[1px] align-middle'></span>full time | December 2022</h3>
+                                <h2 className=" font-bold md:text-xl text-blue-300  ">WEBMETHODS analyst developer at INTM Client CREDIT DU MAROC</h2>
+                                
+                                <h3 className=" font-semibold text-white"><span className=' bg-blue-50 p-[4px] m-2 rounded-full text-[1px] align-middle'></span>full time | may 2023</h3>
                                 <p className=" text-white">
                                 &nbsp;&nbsp;<span className=' bg-blue-300 p-[4px] m-2  text-[1px] align-middle'></span>Conception et développement de services (ESB / SOA) <br />
                                 &nbsp;&nbsp;&nbsp;&nbsp; - Développement de flow Services <br />
@@ -68,7 +68,25 @@ function SectAbout ()
                                 </p>
                             </div>  
                             <div>
-                                <p className=" text-white font-semibold"><span className="font-bold text-lg text-blue-600 ">Skills :</span> WEBMETHODS-JAVA-WEBSERVICE</p>
+                                <p className=" text-white font-semibold"><span className="font-bold text-lg text-blue-600 ">Skills :</span> WEBMETHODS 9.12/10.3/10.11-JAVA-WEBSERVICE-APIGateway</p>
+                            </div>  
+                        </div>    
+                        <div className='space-y-3'>
+                            <div className='space-y-1'>
+                                <h2 className=" font-bold md:text-xl text-blue-300  ">WEBMETHODS analyst developer at Atos client GRDF</h2>
+                                <h3 className=" font-semibold text-white"><span className=' bg-blue-50 p-[4px] m-2 rounded-full text-[1px] align-middle'></span>Internship | June 2022 - november 2022</h3>
+                                <h3 className=" font-semibold text-white"><span className=' bg-blue-50 p-[4px] m-2 rounded-full text-[1px] align-middle'></span>full time | December 2022 - 30 april</h3>
+                                <p className=" text-white">
+                                &nbsp;&nbsp;<span className=' bg-blue-300 p-[4px] m-2  text-[1px] align-middle'></span>Conception et développement de services (ESB / SOA) <br />
+                                &nbsp;&nbsp;&nbsp;&nbsp; - Développement de flow Services <br />
+                                &nbsp;&nbsp;&nbsp;&nbsp; - Développement de Services Java <br />
+                                &nbsp;&nbsp;&nbsp;&nbsp; - Développement de service Adapter pour les accès base de données <br />
+                                &nbsp;&nbsp;&nbsp;&nbsp; - Développement de Web Service (REST et SOAP) <br />
+                                
+                                </p>
+                            </div>  
+                            <div>
+                                <p className=" text-white font-semibold"><span className="font-bold text-lg text-blue-600 ">Skills :</span> WEBMETHODS 9.12/10.3/10.11-JAVA-WEBSERVICE</p>
                             </div>  
                         </div>    
                     </div>
